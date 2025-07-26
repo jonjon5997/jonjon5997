@@ -1,8 +1,8 @@
 # Hi, I'm Jonathan Sanfilippo 👋
 
-I'm a **Front-End Developer** with a background in education, passionate about building intuitive and accessible web applications. I have experience with:
+I'm a **Front-End Developer** with a background in Education/Customer Experience -- crafting intuitive and accessible web applications. I have experience with:
 
-- **Languages & Tools:** JavaScript, React, HTML, CSS, Node.js, Express, REST APIs
+- **Languages & Tools:** JavaScript, Typescript, React, HTML, CSS, Node.js, Express, REST APIs
 - **Key Projects:**
   - **Pokédex App** – A React-based app that fetches and displays Pokémon data using the PokéAPI.
   - **Spots App** – A web application for discovering and sharing locations with integrated user authentication.
